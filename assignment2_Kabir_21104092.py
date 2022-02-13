@@ -1,6 +1,6 @@
 #Question No.1
 
-a="Python is a case sensitive language"
+#a="Python is a case sensitive language"
 
 #A.) Part
 #print(len(a))
